@@ -3,7 +3,13 @@ html, body {
   padding: 0;
 }
 canvas {
-  display: flex ;
+  display: flex, 
+  display: grid,
+  float: left,
+  text-align: center,
+  margin: auto ,
+  position: absolute. 
+
 }
 .principal {
   align: center;
